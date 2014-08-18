@@ -186,5 +186,6 @@ Contributors
 * [Jeff Leek](http://biostat.jhsph.edu/~jleek/) - Wrote the initial version.
 * [L. Collado-Torres](http://bit.ly/LColladoTorres) - Fixed typos, added links.
 * [Nick Reich](http://people.umass.edu/nick/) - Added tips on storing data as text.
+* [ping wu] forked on 8/18/2014 as per The Data Scientist's course project.  - No additiaonl changes
 
 
